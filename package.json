@@ -1,7 +1,7 @@
 {
   "name": "crud-api-mysql",
   "version": "1.0.0",
-  "description": "",
+  "description": "CRUD APP EXPRESS-MYSQL ",
   "main": "index.js",
   "type": "module",
   "scripts": {

@@ -1,5 +1,4 @@
 import  express  from "express";
-import routes from "../src/Router/routes.js";
 import { engine } from "express-handlebars";
 import path from 'path'
 import * as url from 'url';
